@@ -67,7 +67,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,eclipse"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,,eclipse"/>
 </p>
 
 ---
@@ -134,7 +134,7 @@
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+%![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
