@@ -17,6 +17,16 @@
 -🧩 Practicing Data Structures & Algorithms for technical interviews
 -🎯 Goal: Become a DevOps Engineer in a top product-based company
 -⚡ Fun Fact: I enjoy automating tasks and learning how applications move from code → deployment → production
+👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- ☁️ Aspiring DevOps Engineer passionate about Cloud & Automation
+- 🐧 Currently learning Linux, Git, Docker, CI/CD & AWS
+- 🚀 Exploring Kubernetes, Terraform & Cloud Deployment
+- 💻 Interested in DevOps, Cloud Computing & Software Development
+- 🧩 Practicing Data Structures & Algorithms
+- 🎯 Goal: Become a DevOps Engineer in a top product company
+- ⚡ Fun Fact: I enjoy automating tasks and building real-world solutions
 ---
 
 ## 🌐 Connect with Me
