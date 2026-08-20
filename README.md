@@ -111,13 +111,11 @@
 ---
 
 # 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=M-Boomika15&show_icons=true&theme=tokyonight)
 ![](https://github.com/M-Boomika15/Javaprograms.git)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=M-Boomika15&theme=tokyonight)
+![](https://github.com/M-Boomika15/Smart-Emergency-System-amulance-connects-with-hospital-.git)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Boomika15&layout=compact&theme=tokyonight)
+![](https://github.com/M-Boomika15/SmartSeat-Seating-Arrangement.git)
 
 ---
 
