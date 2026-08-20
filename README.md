@@ -134,12 +134,10 @@
 
 ## ☕ Coding Profiles
 
-- 💻 LeetCode
-- 🟢 HackerRank
-- 🔵 CodeChef
+- 💻 LeetCode(https://leetcode.com/u/Boomika_M-15/)
+- 🟢 HackerRank(https://www.hackerrank.com/profile/boomikamoorthi15)
+- 🔵 CodeChef(https://www.codechef.com/users/boomika_m_15)
 - 🟣 GeeksforGeeks
-
-(Add your profile links)
 
 ---
 
