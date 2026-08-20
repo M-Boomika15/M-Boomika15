@@ -1,36 +1,36 @@
 <h1 align="center">Hi 👋, I'm Boomika M</h1>
-<h3 align="center">🚀 Aspiring DevOps Engineer | Software Engineer | Problem Solver</h3>
+<h3 align="center">🚀 CSE Student | Aspiring DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Solving+real+world+Problems;Quick+Learner;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Automating+today;Deploying+smarter;Building+for+Tomorrow;Quick+Learner;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 💫 About Me
-
-- 🎓 Computer Science Engineering Student
-- 💻 Passionate about Full Stack Java Development
-- 🌱 Currently learning Spring Boot, React, REST APIs & Microservices
-- 🚀 Interested in Software Development ,Devops and Cloud Technologies
-- 📚 Solving Data Structures & Algorithms problems
-- 🎯 Goal: Become a Software Engineer in a Top Product Company
-- ⚡ Fun Fact: I enjoy building real-world applications.
-
+## 👩🏻‍💻 About Me
+-🎓 Computer Science Engineering Student
+-☁️ Aspiring DevOps Engineer passionate about automation and cloud technologies
+-🐧 Currently learning Linux, Git, Docker, CI/CD & AWS
+-🚀 Exploring Kubernetes, Infrastructure as Code & Cloud Deployment
+-💻 Building and deploying real-world applications
+-🔄 Interested in DevOps, Cloud Computing & Software Development
+-🧩 Practicing Data Structures & Algorithms for technical interviews
+-🎯 Goal: Become a DevOps Engineer in a top product-based company
+-⚡ Fun Fact: I enjoy automating tasks and learning how applications move from code → deployment → production
 ---
 
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/boomika-moorthi-7536a1356">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:boomikamoorthi15@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/M-Boomika15">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
