@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Boomika M</h1>
-<h3 align="center">🚀 Full Stack Developer | Software Engineer | Problem Solver</h3>
+<h3 align="center">🚀 Aspiring DevOps Engineer | Software Engineer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Java+Developer;Frontend+Developer;Quick+Learner;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Solving+real+world+Problems;Quick+Learner;Always+Learning+New+Technologies" />
 </p>
 
 ---
