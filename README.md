@@ -118,9 +118,8 @@
 
 ## 🏆 GitHub Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=M-Boomika15&theme=algolia&no-frame=true)
 
----
+![](https://github.com/M-Boomika15/SmartSeat-Seating-Arrangement.git)
 
 ## 📊 Contribution Graph
 
