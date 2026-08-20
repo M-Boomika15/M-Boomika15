@@ -8,17 +8,6 @@
 ---
 
 ## 👩🏻‍💻 About Me
--🎓 Computer Science Engineering Student
--☁️ Aspiring DevOps Engineer passionate about automation and cloud technologies
--🐧 Currently learning Linux, Git, Docker, CI/CD & AWS
--🚀 Exploring Kubernetes, Infrastructure as Code & Cloud Deployment
--💻 Building and deploying real-world applications
--🔄 Interested in DevOps, Cloud Computing & Software Development
--🧩 Practicing Data Structures & Algorithms for technical interviews
--🎯 Goal: Become a DevOps Engineer in a top product-based company
--⚡ Fun Fact: I enjoy automating tasks and learning how applications move from code → deployment → production
-👨‍💻 About Me
-
 - 🎓 Computer Science Engineering Student
 - ☁️ Aspiring DevOps Engineer passionate about Cloud & Automation
 - 🐧 Currently learning Linux, Git, Docker, CI/CD & AWS
